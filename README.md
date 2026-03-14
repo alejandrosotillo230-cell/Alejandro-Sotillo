@@ -1,24 +1,32 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 
-<h1>🚀 Mi Proyecto</h1>
+<h1 align="center"><b>Hola, soy Alejandro</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p>
-Proyecto desarrollado con HTML, CSS y JavaScript.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Programador;Desarrolador;Automatizador+de+codigo;Ing.+de+Sistemas"></a>
 </p>
-
-<img src="https://img.shields.io/badge/estado-en%20desarrollo-yellow">
-<img src="https://img.shields.io/badge/licencia-MIT-green">
-<img src="https://img.shields.io/badge/version-1.0-blue">
 
 </div>
 
 ---
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-## 📌 Descripción
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
-Este proyecto tiene como objetivo crear una aplicación funcional utilizando tecnologías web modernas.
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
 
 ## 🛠 Tecnologías utilizadas
 
